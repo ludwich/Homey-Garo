@@ -1,0 +1,12 @@
+{
+    "type": "number",
+    "title": { "en": "Number of phases" },
+    "uiComponent": "sensor",
+    "getable": true,
+    "setable": false,
+    "icon": "/assets/images/atom.svg",
+    "units": { "en": "" },
+    "min": 0,
+    "max": 3,
+    "step": 1
+  }

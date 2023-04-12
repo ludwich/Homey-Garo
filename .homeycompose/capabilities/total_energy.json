@@ -1,0 +1,11 @@
+{
+    "type": "number",
+    "title": { "en": "Total energy" },
+    "uiComponent": "sensor",
+    "getable": true,
+    "setable": false,
+    "icon": "/assets/images/energy.svg",
+    "units": { "en": "kWh" },
+    "min": 0,
+    "step": 1
+  }

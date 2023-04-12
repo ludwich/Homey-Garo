@@ -1,0 +1,11 @@
+{
+    "type": "number",
+    "title": { "en": "Current AMP limit" },
+    "uiComponent": "sensor",
+    "getable": true,
+    "setable": false,
+    "icon": "/assets/images/energy_fuse.svg",
+    "units": { "en": "A" },
+    "min": 0,
+    "step": 1
+  }

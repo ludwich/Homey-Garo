@@ -1,0 +1,11 @@
+{
+    "type": "number",
+    "title": { "en": "Session energy" },
+    "uiComponent": "sensor",
+    "getable": true,
+    "setable": false,
+    "icon": "/assets/images/energy.svg",
+    "units": { "en": "Wh" },
+    "min": 0,
+    "step": 1
+  }
